@@ -1,5 +1,6 @@
 # DicomInsight
 
+![img.png](img.png)
 这是一个基于PyQt 6的查看和修改DICOM文件的GUI工具。其功能如下：
 
 1. Python代码要采用type hint。
